@@ -1,0 +1,56 @@
+@charset "utf-8";
+.rl {
+	float: left;
+	width: 200px;
+}
+.rl h2{
+	font-size: 24px;
+
+}
+.rl li{
+	font-size: 15px;
+	height: 29px;
+	border-bottom: 1px  solid ; 
+}
+.ln {
+	float: right;
+	width: 770px;
+}
+.ln h2{
+	font-size: 20px;
+	color: #000000;
+	margin-bottom: 20px;
+}
+.ln {
+	margin-top: 25px;
+	margin-bottom: 10px;
+}
+.ln p{
+	text-indent: 2em;
+}
+.p1 {
+	background: url('../image/join.jpg') no-repeat right;
+	padding-right: 250px;
+	margin-top: 20px;
+	margin-bottom: 79px;
+}
+.job{
+	text-align: right;
+}
+.job li {
+	line-height: 30px;
+}
+.job a{
+	float: left;
+}
+.page{
+	padding-top: 20px;
+	text-align: right;
+}
+.page span{
+	float: left;
+}
+.rl li{
+	background: url('../image/arr.png') no-repeat left;
+	padding-left: 10px;
+}

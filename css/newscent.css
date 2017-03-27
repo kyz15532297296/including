@@ -1,0 +1,52 @@
+@charset "utf-8";
+.nw {
+	float: left;
+	width: 200px;
+}
+.nw li{
+	font-size: 15px;
+	height: 29px;
+	border-bottom: 1px  solid ;
+}
+.nw h2{
+	font-size: 24px;
+}
+.qe{
+	float: right;
+	width: 770px;
+}
+.qe h2{
+	font-size: 24px;
+
+}
+.xxw img{
+	float: left;
+	padding-right: 6px;
+}
+.xxw p{
+	margin-top: 25px;
+	margin-bottom: 20px;
+	text-indent: 2em;
+}
+.xxw1 {
+	height: 150px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.page{
+	text-align: right;
+}
+.page span{
+	float: left;
+}
+.xxw1 h3 a{
+	font-size: 20px;
+	color: #000000;
+}
+.nw li{
+	background: url('../image/arr.png') no-repeat left;
+	padding-left: 10px;
+}
+
+
+

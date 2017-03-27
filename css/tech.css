@@ -1,0 +1,27 @@
+@charset "utf-8";
+.ysidebar li {
+	float: left;
+}
+.sidebar li{
+	 
+}
+.ysidebar li a {
+	display: block;
+	text-align: center;
+	background: #FFF;
+	padding: 10px 8px 0;
+}
+.ysidebar li a:hover {
+	background: #10298E;
+	color: #FFF;
+}
+.ysidebar li span {
+	display: block;
+	line-height: 54px;
+}
+.db{
+	text-align:right;
+}
+.db span{
+	float: left;
+}

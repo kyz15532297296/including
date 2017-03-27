@@ -1,0 +1,159 @@
+@charset "utf-8";
+#banner {
+	background: url('../image/bannerbg.png') repeat-x;
+	margin-top: 29px;
+	margin-bottom: 27px;
+}
+#pande {
+	margin-bottom: 36px;
+}
+.pande h2,.pande ul,.pande li {
+	float: left;
+	height: 154px;
+	text-align: center;
+}
+.pande h2 {
+	width: 230px;
+	line-height: 154px;
+	background: url('../image/ltp.png') no-repeat center;
+	font-size: 24px;
+	color: #FFF;
+}
+.pande li {
+	width: 256px;
+	border-left: 1px solid #CACACA;
+}
+.pande li a {
+	display: inline-block;
+	width: 100%;
+	padding-top: 128px;
+	background: no-repeat center 24px;
+	font-size: 14px;
+	height: 26px;
+	line-height: 26px;
+}
+.pande li .hx {
+	background-image: url('../image/hx.png');
+}
+.pande li .hx:hover {
+	background-image: url('../image/hx1.png');
+}
+.pande li .wx {
+	background-image: url('../image/wx.png');
+}
+.pande li .wx:hover {
+	background-image: url('../image/wxe.png');
+}
+.pande li .sx {
+	background-image: url('../image/sxe.jpg');
+}
+.pande li .sx:hover {
+	background-image: url('../image/sx.jpg');
+}
+.news {
+	border: 1px solid #CACACA;
+	margin-bottom: 15px;
+}
+.news .newsCenter {
+	float: left;
+	width: 687px;
+	border-right: 1px solid #CACACA;
+}
+.news .dock {
+	float: left;
+	width: 313px;
+}
+.news .title {
+	border-bottom: 1px solid #CACACA;
+	text-align: right;
+	height: 49px;
+	line-height: 49px;
+	padding-left: 16px;
+	padding-right: 10px;
+}
+.news .title h2 {
+	float: left;
+	line-height: 49px;
+	font-size: 20px;
+	color: #656565;
+}
+.news .title a {
+	color: #0F298D;
+}
+.newsItem {
+	height: 80px;
+	padding: 14px 10px;
+}
+.newsItem .newsImg {
+	width: 100px;
+	height: 80px;
+	text-align: center;
+	line-height: 80px;
+	font-size: 14px;
+	float: left;
+	margin-right: 17px;
+}
+.newsItem .newsImg a {
+	color: #FFF;
+	background: #C4C4C4;
+	display: inline-block;
+	width: 100%;
+	height: 100%;
+}
+.newsItem .newsImg a:hover {
+	background: #8B96C4;
+}
+.newsContent h3 {
+	margin-bottom: 12px;
+}
+.newsContent h3 a {
+	color: #5D5D5D;
+}
+.newsContent h3 a:hover {
+	color: #09238B;
+}
+.newsContent p {
+	margin-bottom: 20px;
+}
+.pics {
+	padding: 17px 11px 19px;
+	border-bottom: 1px solid #CACACA;
+}
+.feedback img {
+	margin-top: 19px;
+	margin-left: 11px;
+}
+.pent {
+	padding-bottom: 31px;
+}
+.pent h2 {
+	font-size: 20px;
+	line-height: 70px;
+}
+.hot,.small,.small img,.more {
+	float: left;
+}
+.small {
+	width: 676px;
+	height: 205px;
+	overflow: hidden;
+}
+.small img {
+	margin-left: 20px;
+	margin-bottom: 11px;
+}
+#links {
+	height: 104px;
+	background: url('../image/linkbg.png') repeat-x;
+}
+.links h2 {
+	font-size: 14px;
+	color: #000;
+	margin-top: 27px;
+	margin-bottom: 15px;
+	margin-left: 10px;
+}
+.links a {
+	margin-right: 30px;
+	margin-left: 10px;
+}

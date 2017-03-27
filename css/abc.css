@@ -1,0 +1,43 @@
+@charset "utf-8";
+table {
+		border-collapse: collapse; /* 边框合并 */
+		width: 600px;
+		margin-top: 20px;
+		text-align: center;
+	}
+	.tu2{float: left;
+		width: 600px;
+
+	}
+	.bl { float:right;
+		width: 362px;
+	}
+	.bl h2{
+		font-size: 24px;
+		color: #0F298D;
+	}
+	.bl li {
+		border-bottom: 1px solid #CCC;
+		background: no-repeat left 32px url('../image/dian.gif');
+		padding-left: 10px; /* 首选方式 */
+	}
+	.bl ul li{
+		border-bottom: 1px solid;
+        padding-top: 26px;
+	}
+	.tu2{
+		margin-bottom: 20px;
+	}
+	.tu2 table {
+		border-collapse: collapse;
+	}
+	.tu2 td,.tu2 th {
+		line-height: 25px;
+		padding: 20px 0;
+		border: 1px solid #AAA;
+	}
+	.tu2 th{
+		color: #0F298D;
+	}
+
+	

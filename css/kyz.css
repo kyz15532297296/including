@@ -1,0 +1,50 @@
+@charset "utf-8";
+.qq{
+	float: left;
+	width: 200px;
+}
+.qq h2{
+	font-size: 23px;
+}
+.qq li{
+	font-size: 15px;
+	height: 29px;
+	border-bottom: 1px  solid ;
+}
+.qqq h2{
+	font-size: 23px;
+}
+.q2 p{
+	float: right;
+	text-indent: 2em;
+	line-height: 30px;
+}
+.q2 h3 a{
+	font-size: 20px;
+	color: #000000;
+
+ }
+ .q2 h3{
+ 	font-size: 20px;
+ 	color: #000000;
+
+ }
+ .fx {
+ 	display: inline;
+ }
+ .addtime {
+ 	height: 25px;
+ 	border-bottom: 1px dashed #CCC;
+ }
+ .addtimel {
+ 	float: left;
+ }
+ .addtimer {
+ 	float: right;
+ 	width: 84px;
+ 	height: 25px;
+ 	text-align: center;
+ 	line-height: 25px;
+ 	background: #D9D9D9;
+ 	color: #10298E;
+ }
